@@ -1,6 +1,6 @@
 # flutter_timer
 
-A new Flutter package.
+A flutter timer that shows time duration from initial time.
 
 ## Getting Started
 
