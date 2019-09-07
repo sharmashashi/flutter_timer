@@ -1,6 +1,6 @@
 name: flutter_timer
 description: A timer widget that shows increasing time duratioin from given initial time.
-version: 0.0.2
+version: 0.0.4
 author: Shashi Sharma <sharmashashi940@gmail.com>
 homepage: https://github.com/sharmashashi/flutter_timer
 

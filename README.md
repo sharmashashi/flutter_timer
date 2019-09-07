@@ -2,6 +2,10 @@
 
 A flutter timer that shows time duration from initial time.
 
+# Screenshot
+
+  ![Alt text](screenshots/timer.gif?raw=true "")
+
 ## Getting Started
 
 This project is a starting point for a Dart
